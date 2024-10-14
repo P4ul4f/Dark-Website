@@ -1,5 +1,4 @@
 "use client";
-import ArrowIcon from '../assets/icons/arrow-w.svg';
 import CursorImage from '../assets/images/cursor.png';
 import MessageImage from '../assets/images/message.png';
 import Image from 'next/image';
