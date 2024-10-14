@@ -57,7 +57,7 @@ export const Features = () => {
         </h2>
         <div className='max-w-xl mx-auto'>
           <p className='text-center mt-5 text-xl text-white/70 '>
-          Whether you're looking to create a new platform from scratch or optimize an existing one, 
+          Whether you are looking to create a new platform from scratch or optimize an existing one, 
           I provide comprehensive web development services that cover a wide range of technologies and practices. 
           Here&apos;s what I can help you with:
           </p>
