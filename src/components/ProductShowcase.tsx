@@ -20,12 +20,12 @@ export const ProductShowcase = () => {
     <div className="bg-black text-white bg-gradient-to-b from-black to-[#5D2CA8] py-[72px] py-24">
       <div className="container">
         <h2 className="text-center text-5xl sm:text-6xl font-bold tracking-tighter">
-          Intuitive interface
+          Expert Web Development
         </h2>
         <div className="max-w-xl mx-auto">
           <p className="text-xl text-center text-white/70 mt-5">
-            Celebrate the joy of accomplishment with an app designed to track progress, motive you 
-            efforts, and celebrate your successes, one task at a time.
+            I deliver high-quality web development services, helping businesses succeed online with robust 
+            applications and user-friendly interfaces.
           </p>
         </div>
         <motion.div
